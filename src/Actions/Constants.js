@@ -1,0 +1,9 @@
+const types = {
+    AUTHENTICATE_USER: "AUTHENTICATE_USER",
+    ADD_QUESTION: "ADD_QUESTION",
+    GET_QUESTIONS: "GET_QUESTIONS",
+    GET_USERS: "GET_USERS",
+    LOG_OUT: "LOG_OUT"
+};
+
+export { types };
